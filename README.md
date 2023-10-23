@@ -1,4 +1,2 @@
-oi
-ioi
-ioioi
 # job-git
+Lembrei do comando: git commit
